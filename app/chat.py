@@ -13,8 +13,7 @@ conversas = [
     'bom dia, como vai?',
     'Como vai você ?'
     'Estou bem',
-    'Qual o seu nome?',
-    'Meu nome é Marcos.' 
+    'Qual o seu nome?'
     ]
 
 filmes = [
